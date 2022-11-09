@@ -1,0 +1,41 @@
+.main-footer {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    background: #C8A35F;
+    color: white;
+    height: 161px;
+}
+
+.logotype {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logotype h1 {
+    margin: 0;
+}
+
+@media (max-width: 580px) {
+    .main-footer {
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr 1fr 1fr;
+        background: #C8A35F;
+        color: white;
+        height: 250px;
+        padding: 50px 0;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+

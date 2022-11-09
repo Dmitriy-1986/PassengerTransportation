@@ -1,0 +1,51 @@
+.main-contacts {
+    background: #2F343A;
+    padding: 0 10px 100px 10px;
+    color: white;
+    min-height: 400px;
+}
+
+.main-content-wrapper {
+    margin: 0 auto;
+    max-width: 1100px;
+    padding: 10px;
+}
+
+.section-contacts {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.btn-contact {
+    display: block;
+    height: 100px;
+    width: 100px;
+    border: 1px solid white;
+    margin: 10px;
+}
+
+@media (max-width: 580px) {
+    .section-contacts {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
