@@ -25,13 +25,11 @@ let languageBar = document.querySelector('#languageBar'),
 
 phone.innerHTML = passengerTransportation.phone;
 phone.href = `tel:${passengerTransportation.phone}`;
-
-mail.innerHTML = passengerTransportation.mail;
-mail.href = `mailto:${passengerTransportation.mail}`;
-
 phoneFooter.innerHTML = passengerTransportation.phone;
 phoneFooter.href = `tel:${passengerTransportation.phone}`;
 
+mail.innerHTML = passengerTransportation.mail;
+mail.href = `mailto:${passengerTransportation.mail}`;
 mailFooter.innerHTML = passengerTransportation.mail;
 mailFooter.href = `mailto:${passengerTransportation.mail}`;
 
