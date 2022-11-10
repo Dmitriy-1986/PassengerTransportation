@@ -4,8 +4,8 @@ let languageBar = document.querySelector('#languageBar'),
     en = document.querySelector('#en'),
     ua = document.querySelector('#ua'),
     ru = document.querySelector('#ru'),
-    phone = document.querySelector('.phone'),
-    mail = document.querySelector('.mail'),
+    phoneHeader = document.querySelector('.phone'),
+    mailHeader = document.querySelector('.mail'),
     phoneFooter = document.querySelector('.phone-footer'),
     mailFooter = document.querySelector('.mail-footer'),
     logotype = document.querySelector('.logotype'),
@@ -23,8 +23,8 @@ let languageBar = document.querySelector('#languageBar'),
     mainContacts = document.querySelector('#mainContacts'),
     allLang = ['en', 'ua', 'ru'];
 
-phone.innerHTML = passengerTransportation.phone;
-phone.href = `tel:${passengerTransportation.phone}`;
+phoneHeader.innerHTML = passengerTransportation.phone;
+phoneHeader.href = `tel:${passengerTransportation.phone}`;
 phoneFooter.innerHTML = passengerTransportation.phone;
 phoneFooter.href = `tel:${passengerTransportation.phone}`;
 
