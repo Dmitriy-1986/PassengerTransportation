@@ -12,18 +12,18 @@ const passengerTransportation = {
     },
     "mainMenu": {
         "en": [
-            'Services',
             'About US',
+            'Services',           
             'Contacts',
         ],
-        "ua": [ 
-            'Сервіси',
+        "ua": [             
             'Про Нас',
+            'Сервіси',
             'Контакти',
         ],
-        "ru": [
-            'Сервисы',
+        "ru": [            
             'О Нас',
+            'Сервисы',
             'Контакты',
         ],
     },
