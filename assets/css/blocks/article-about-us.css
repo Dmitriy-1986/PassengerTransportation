@@ -1,6 +1,7 @@
 .main-about-us {
     width: 100%;
-    background: #2F343A;
+    /*background: #2F343A;*/
+    background-color: #1f1f1f;
 }
 
 .main-about-us-wrapper {
@@ -22,7 +23,8 @@
     display: inline-block;
     width: 90px;
     height: 6px;
-    background-color: #C8A35F;
+    /*background-color: #C8A35F;*/
+    background-color: #6b66da;
     margin-top: 100px;
 }
 
