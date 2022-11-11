@@ -1,5 +1,6 @@
 .main-contacts {
-    background: #2F343A;
+    /*background: #2F343A;*/
+    background-color: #1f1f1f;
     padding: 0 10px 100px 10px;
     color: white;
     min-height: 400px;
