@@ -41,7 +41,8 @@
 .button-about-us {
     height: 55px;
     width: 220px;
-    background-color: #C8A35F;
+    /*background-color: #C8A35F;*/
+    background-color: #1f1f1f;
     border: none;
     color: white;
     text-transform: uppercase;
