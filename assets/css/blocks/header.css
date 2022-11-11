@@ -3,7 +3,8 @@
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 45px;
     height: 45px;
-    background: #C8A35F;
+    /*background: #C8A35F;*/
+    background-color: #6b66da;
 }
 
 .top-line, a {
