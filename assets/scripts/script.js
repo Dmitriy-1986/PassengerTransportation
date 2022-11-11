@@ -88,6 +88,7 @@ const passengerTransportation = {
                 },
                 {
                     "imgSrc": './assets/images/Rectangle-1.png',
+                    "title": 'Card',
                     "description": 'Dinos were great!',
                     "btn": 'more',
                 },
