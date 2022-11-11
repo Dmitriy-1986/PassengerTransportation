@@ -1,7 +1,8 @@
 .main-footer {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    background: #C8A35F;
+    /*background: #C8A35F;*/
+    background: #393F47;
     color: white;
     height: 161px;
 }
