@@ -28,8 +28,8 @@ phoneHeader.href = `tel:${passengerTransportation.phone}`;
 phoneFooter.innerHTML = passengerTransportation.phone;
 phoneFooter.href = `tel:${passengerTransportation.phone}`;
 
-mail.innerHTML = passengerTransportation.mail;
-mail.href = `mailto:${passengerTransportation.mail}`;
+mailHeader.innerHTML = passengerTransportation.mail;
+mailHeader.href = `mailto:${passengerTransportation.mail}`;
 mailFooter.innerHTML = passengerTransportation.mail;
 mailFooter.href = `mailto:${passengerTransportation.mail}`;
 
