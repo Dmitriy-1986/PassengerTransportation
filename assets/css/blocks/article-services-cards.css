@@ -1,6 +1,7 @@
 .main-services {
     padding: 0 10px 100px 10px;
-    background: #393F47;
+    /*background: #393F47;*/
+    background: #2F343A;
     color: white;
     min-height: 100vh;
 }
