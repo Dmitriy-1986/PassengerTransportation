@@ -73,4 +73,8 @@
     .navigation  {
         justify-content: center;
     }
+    
+    .top-line {
+        font-size: 12px;
+    }
 }
